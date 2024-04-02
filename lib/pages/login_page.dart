@@ -53,6 +53,7 @@ class _LoginPageState extends State<LoginPage> {
                         fontFamily: "KodeMono-Bold",
                         fontSize: 20.0,
                         color: Colors.grey,
+                        fontWeight: FontWeight.bold,
                       ),
                     ),
                   ),

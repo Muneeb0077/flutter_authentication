@@ -50,6 +50,7 @@ class _SignUpState extends State<SignUp> {
                           fontFamily: "KodeMono-Bold",
                           fontSize: 20.0,
                           color: Colors.grey,
+                          fontWeight: FontWeight.bold,
                         ),
                       ),
                     ),
